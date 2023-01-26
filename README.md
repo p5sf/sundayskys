@@ -1,3 +1,3 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sundayskys&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+[![](https://activity-graph.herokuapp.com/graph?username=sundayskys&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
